@@ -1,37 +1,18 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Internet-Site-ID-Project/Internet-Site-ID-Project.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Internet Site ID Project
+Our internet services are established by 1990s which model was from DOD communication system. The problem of the internet is the identifications of websites on internet because the growth usages and the civilian uses of internet cause the internet to be overcrowded. In order to avoid security problems, we come up with internet-site-id-project for the identification of websites by id numbers. The security problems will solve after all sites register and use the internet site id on websites because all the registered internet site id users are secure and others may be harmful. The probability of the security problems will occur from unwanted civilian usages of internet and the registered users can be censored with our internet agencies with cyber agents on wire. There could be futuristic penalties for prohibiting usages of unwanted non-registered websites on internet.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In futuristic stories, ETs or aliens discovery(ies) will come. Then, internet will be observed by ETs for the future. There are needs for 'Counter Force' to stop internet security problems before our alien introductions for government uses.
+Security
+There are more than 200 million viruses on the internet breaching securities. There are more then new 2,000 viruses found daily by antivirus labs. The best manner to solve this issue is to identify the website to secure from the security issues.
 
-### Markdown
+## Developer
+The project is currently developed by john3825(SYSOP) Needed For Server.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## ER - Enhanced Readings
+ICANN is aware of internet security. DOD and other agencies are aware of the encryption standards for current TSL, SSL security. The current encryption standard for SSL3 is not secure with AES 128bit CBC cypher encryption.
 
-```markdown
-Syntax highlighted code block
+## Volunteers
+Internet Site ID Project is recruiting volunteers for the project. Please post message to the comment or e-mail john3825(SYSOP). -- Some experience requested....
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Internet-Site-ID-Project/Internet-Site-ID-Project.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
