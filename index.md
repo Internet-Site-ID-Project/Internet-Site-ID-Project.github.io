@@ -14,3 +14,11 @@ ICANN is aware of internet security. DOD and other agencies are aware of the enc
 ## Volunteers
 Internet Site ID Project is recruiting volunteers for the project. Please post message to the comment or e-mail john3825(SYSOP). -- Some experience requested....
 
+[![BadgeInteretSiteIDProjectAuthority](https://img.shields.io/badge/GitHub_InteretSiteIDProject-Home-green.svg)](https://internet-site-id-project.github.io/)
+[![BadgeInteretSiteIDProjectAuthority](https://img.shields.io/badge/GitHub_InteretSiteIDProject-Home-yellow.svg)](https://github.com/Internet-Site-ID-Project/)
+
+[![BadgeInteretSiteIDProject](https://img.shields.io/badge/GitHub_InteretSiteIDProject-Project-green.svg)](https://github.com/john3825/internet-site-id-project/)
+[![BadgeInteretSiteIDProjectHome](https://img.shields.io/badge/GitHub_InteretSiteIDProject-Home-blue.svg)](https://john3825.github.com/internet-site-id-project/)
+[![BadgeInteretSiteIDProjectTarBall](https://img.shields.io/badge/GitHub_Download.tar.gz-OPEN-green.svg)](https://github.com/john3825/internet-site-id-project/tarball/master)
+[![BadgeInteretSiteIDProjectZip](https://img.shields.io/badge/GitHub_Download.zip-OPEN-green.svg)](https://github.com/john3825/internet-site-id-project/zipball/master)
+[![BadgeInteretSiteIDProjectSourceforge](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/internet-site-id-project/files/latest/download)
